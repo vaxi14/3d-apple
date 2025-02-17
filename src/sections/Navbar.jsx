@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import { appleImg, bagImg, searchImg } from '../utils';
+import { appleImg, bagImg, searchImg } from '../utils/index.js';
 import {navLists} from '../constants';
 
 function Navbar() {
